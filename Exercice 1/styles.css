@@ -1,0 +1,33 @@
+body {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+}
+
+.box1 {
+    background-color: #3498db;
+    border: 2px solid #2980b9;
+    margin-right: 20px;
+}
+
+.box2 {
+    background-color: #2ecc71;
+    border: 2px solid #27ae60;
+    padding: 10px;
+}
+
+.box3 {
+    background-color: #e74c3c;
+    border: 2px solid #c0392b;
+    margin-left: 20px;
+    padding: 20px;
+}
